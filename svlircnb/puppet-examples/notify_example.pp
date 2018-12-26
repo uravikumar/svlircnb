@@ -1,0 +1,3 @@
+notify { 'hello':
+  notice("${namevar}"),
+}

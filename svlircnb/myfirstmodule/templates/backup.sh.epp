@@ -1,0 +1,2 @@
+
+rsync -avz <%= $dir1 %> <%= $dir2 %>
